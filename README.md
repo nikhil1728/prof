@@ -60,7 +60,7 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi" height="40" alt="powerbi logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original-wordmark.svg" height="40" alt="tableau logo" />
   <img width="12" />
