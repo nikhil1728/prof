@@ -77,29 +77,5 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
 
 ###
 
-<h3 align="left">🔥 My GitHub Stats:</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" height="180" />
-</div>
-
-###
-
-<h3 align="center">📫 Let's Connect!</h3>
-
-<div align="center">
-  <a href="mailto:nikhilsomisetty1729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-somisetty-08b805180/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Somisetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
 
