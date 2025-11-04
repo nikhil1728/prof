@@ -11,7 +11,7 @@
   <a href="mailto:nikhilsomisetty1729@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/nikhil1728" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhil-somisetty.nikhil-somisetty&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhil1728.nikhil1728&" />
 </div>
 
 ###
@@ -55,18 +55,23 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   </tr>
   <tr>
     <td><b>OTT Data Analysis</b></td>
-    <td>Analyzed OTT platform dataset to find viewer patterns and genre preferences using Python and Power BI.</td>
-    <td><a href="https://github.com/your-link-here">View Project</a></td>
+    <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python and Power BI.</td>
+    <td><a href="https://github.com/nikhil1728/OTT_Analysis">View Project</a></td>
   </tr>
   <tr>
     <td><b>Brazilian E-Commerce Analysis</b></td>
-    <td>Used BigQuery and Python to uncover trends in sales, customer behavior, and delivery performance.</td>
-    <td><a href="https://github.com/your-link-here">View Project</a></td>
+    <td>Used BigQuery and Python to identify sales trends, customer insights, and delivery performance improvements.</td>
+    <td><a href="https://github.com/nikhil1728/E-Commerce">View Project</a></td>
   </tr>
   <tr>
-    <td><b>Electric Cycle Demand Analysis</b></td>
-    <td>Forecasted demand trends and delivery insights for Indian electric cycle market using Power BI.</td>
-    <td><a href="https://github.com/your-link-here">View Project</a></td>
+    <td><b>EV Market Demand Analysis</b></td>
+    <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes, and visualize KPIs in Power BI.</td>
+    <td><a href="https://github.com/nikhil1728/EVAnalysis">View Project</a></td>
+  </tr>
+  <tr>
+    <td><b>Fitness Equipment Analysis</b></td>
+    <td>Studied sales and seasonal demand of fitness equipment using SQL and Power BI dashboards.</td>
+    <td><a href="https://github.com/nikhil1728/FitnessEquipment">View Project</a></td>
   </tr>
 </table>
 
