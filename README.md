@@ -56,22 +56,22 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   <tr>
     <td><b>OTT Data Analysis</b></td>
     <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python and Power BI.</td>
-    <td><a href="https://github.com/nikhil1728/OTT_Analysis">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/OTT_Analysis/blob/main/OTT_Analysis.ipynb">View Project</a></td>
   </tr>
   <tr>
     <td><b>Brazilian E-Commerce Analysis</b></td>
     <td>Used BigQuery and Python to identify sales trends, customer insights, and delivery performance improvements.</td>
-    <td><a href="https://github.com/nikhil1728/E-Commerce">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/E-Commerce/blob/main/E-Commerce.pdf">View Project</a></td>
   </tr>
   <tr>
     <td><b>EV Market Demand Analysis</b></td>
     <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes, and visualize KPIs in Power BI.</td>
-    <td><a href="https://github.com/nikhil1728/EVAnalysis">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/EVAnalysis/blob/main/EVAnalysis.ipynb">View Project</a></td>
   </tr>
   <tr>
     <td><b>Fitness Equipment Analysis</b></td>
     <td>Studied sales and seasonal demand of fitness equipment using SQL and Power BI dashboards.</td>
-    <td><a href="https://github.com/nikhil1728/FitnessEquipment">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/FitnessEquipment/blob/main/FitnessEquipment.ipynb">View Project</a></td>
   </tr>
 </table>
 
